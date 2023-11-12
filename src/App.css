@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+input{
+  cursor: pointer;
+}
+select{
+  cursor: pointer;
+}
+
+.shortTerm ,.longTerm{
+  cursor: pointer;
+}
