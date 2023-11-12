@@ -1,5 +1,42 @@
 # Getting Started with Create React App
 
+
+# deployment link - https://koinx-assesment-frontend.vercel.app/
+
+
+# Koinx Frontend Assesment
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Welcome to the Crypto Tax Calculator – your go-to tool for accurately calculating crypto taxes across various countries. This responsive React application is designed to simplify the complex world of cryptocurrency taxation, providing users with a user-friendly interface to calculate taxes based on their crypto transactions.
+
+## Features
+
+- List key features of your project.
+- Responsive DesignMulti-Country Support
+- Real-Time Updates
+- User-Friendly Interface
+
+## Getting Started
+
+git lnk  https:https://github.com/tripathismt/koinx_Assesment_frontend
+cd your-project
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
