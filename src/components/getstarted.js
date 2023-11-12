@@ -9,7 +9,7 @@ function getstarted() {
         With our range of features that you can equip for free, KoinX allows you
         to be more educated and aware of your tax reports.
       </p>
-      <img src={Frame} alt="frame" />
+      <img className="mb-[1rem]" src={Frame} alt="frame" />
       <button
         type="button"
         class="text-black bg-white hover:bg-blue-80 font-black rounded-lg text-lg px-6 py-2.5 text-center inline-flex items-center justify-between "
